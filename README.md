@@ -11,7 +11,9 @@ Project II - Đại học Bách khoa Hà Nội: Xây dựng ứng dụng nhắn 
 #### Register screen:
 <img src="https://github.com/tuan0342/AppChatRealtime/assets/79151156/ca0438da-47af-495f-9717-02c9a91af3e6" alt="Register" width="250" />
 
-![z1686019363324_004_6c18169d2c23c13962b8e6aae422c204](https://github.com/tuan0342/AppChatRealtime/assets/79151156/b3894fd2-6b5d-4cae-a1cb-91cd933c8a54)
+#### Chat screen:
+<img src="https://github.com/tuan0342/AppChatRealtime/assets/79151156/b3894fd2-6b5d-4cae-a1cb-91cd933c8a54" alt="Chat" width="250" />
+
 
 ![z1686019363324_003_b089731e0dcadd6a011ec3ccb846779a](https://github.com/tuan0342/AppChatRealtime/assets/79151156/cd54d970-bf5f-4928-b012-d7601848a2e9)
 
