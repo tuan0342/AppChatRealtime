@@ -9,5 +9,4 @@ Project II - Đại học Bách khoa Hà Nội: Xây dựng ứng dụng nhắn 
 <img src="https://github.com/tuan0342/AppChatRealtime/assets/79151156/b3894fd2-6b5d-4cae-a1cb-91cd933c8a54" alt="Chat" width="250" />
 <img src="https://github.com/tuan0342/AppChatRealtime/assets/79151156/cd54d970-bf5f-4928-b012-d7601848a2e9" alt="Chat" width="250" />
 <img src="https://github.com/tuan0342/AppChatRealtime/assets/79151156/12873cf5-007f-4fd1-9831-3fde03eb55dc" alt="Chat" width="250" />
-
 <img src="https://github.com/tuan0342/AppChatRealtime/assets/79151156/b6670a42-f89f-4872-88b8-842a1fe28433" alt="Chat" width="250" />
