@@ -2,6 +2,8 @@
 Project II - Đại học Bách khoa Hà Nội: Xây dựng ứng dụng nhắn tin trực tuyến trên điện thoại sử dụng React Native và Firebase
 
 # Ảnh demo:
+<img src="[https://...](https://github.com/tuan0342/AppChatRealtime/assets/79151156/52acc65c-ac5e-4071-b16e-3314b9587526)" alt="Wellcome" width="250" />
+
 ![z1686019363324_006_b5280fcaf2a5c2465b890525d30518bb](https://github.com/tuan0342/AppChatRealtime/assets/79151156/52acc65c-ac5e-4071-b16e-3314b9587526)
 
 ![z1686019363324_005_b80b935f9b5e00e3959d3890fa8a0a2a](https://github.com/tuan0342/AppChatRealtime/assets/79151156/787f4085-c8cd-4fac-a218-5ace624af70d)
